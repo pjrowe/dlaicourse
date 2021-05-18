@@ -27,10 +27,10 @@ https://www.coursera.org/learn/natural-language-processing-tensorflow?specializa
 -	Week 3 - Sequence models
 -	Week 4 - Sequence models and literature
 
-### 4.	Sequences, Time Series and Prediction – this should be applicable/useful for stock market
+### 4.	Sequences, Time Series and Prediction  
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice
 
--	Week 1 - Sequence and prediction
+-	Week 1 - Sequence and prediction - 12 hours
 -	Week 2 - Deep neutral networks for time series
 -	Week 3 - Recurrent neural networks for time series
 -	Week 4 - Real world time series data
