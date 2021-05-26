@@ -6,6 +6,8 @@ https://www.coursera.org/professional-certificates/tensorflow-in-practice
 ### 1.	Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning - 30 hours
 https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice
 
+https://coursera.org/share/491c6605b615b40fb608312ede9a04db
+
 -	Week 1 - New paradigm
 -	Week 2 - Intro to computer vision
 -	Week 3 - Enhancing vision with convo neural netowrks
