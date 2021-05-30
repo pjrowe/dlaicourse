@@ -16,6 +16,8 @@ https://coursera.org/share/491c6605b615b40fb608312ede9a04db
 ### 2.	Convolutional Neural Networks in TensorFlow – 28 hours
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice
 
+https://coursera.org/share/5a35967fd7c02722044506796772d952
+
 -	Week 1 - Exploring a Larger Dataset
 -	Week 2 - Augmentation: A technique to avoid overfitting
 -	Week 3 - Transfer Learning – use models other people have developed
