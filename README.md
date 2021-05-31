@@ -26,6 +26,8 @@ https://coursera.org/share/5a35967fd7c02722044506796772d952
 ### 3.	Natural Language Processing in TensorFlow - 13 hours
 https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice
 
+https://coursera.org/share/f0b50aafd043ea54f3359d19ea2270f2
+
 -	Week 1 - Sentiment in text
 -	Week 2 - Word embeddings
 -	Week 3 - Sequence models
