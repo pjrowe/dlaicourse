@@ -36,6 +36,8 @@ https://coursera.org/share/f0b50aafd043ea54f3359d19ea2270f2
 ### 4.	Sequences, Time Series and Prediction  
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice
 
+https://coursera.org/share/e5c86f4f3574ce75029c4ad94010e89d
+
 -	Week 1 - Sequence and prediction - 12 hours
 -	Week 2 - Deep neutral networks for time series
 -	Week 3 - Recurrent neural networks for time series
