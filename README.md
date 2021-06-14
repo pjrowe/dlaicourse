@@ -42,3 +42,20 @@ https://coursera.org/share/e5c86f4f3574ce75029c4ad94010e89d
 -	Week 2 - Deep neutral networks for time series
 -	Week 3 - Recurrent neural networks for time series
 -	Week 4 - Real world time series data
+
+
+## DeepLearning.AI TensorFlow: Data and Deployment Specialization
+
+### 1.	Custom Models, Layers, and Loss Functions with TensorFlow
+https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow
+
+https://coursera.org/share/279f9064c0bc3c2e2b82c2c58d137927
+
+-	Week 1 - Functional API 
+-	Week 2 - Custom Loss Functions
+-	Week 3 - Custom Layers
+-	Week 4 - Custom Models  
+-	Week 5 - Callbacks (Built-in and Custom) 
+
+
+-	Week 1 - Sequence and prediction - 12 hours
