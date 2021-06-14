@@ -57,5 +57,3 @@ https://coursera.org/share/279f9064c0bc3c2e2b82c2c58d137927
 -	Week 4 - Custom Models  
 -	Week 5 - Callbacks (Built-in and Custom) 
 
-
--	Week 1 - Sequence and prediction - 12 hours
