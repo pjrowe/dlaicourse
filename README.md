@@ -33,12 +33,12 @@ https://coursera.org/share/f0b50aafd043ea54f3359d19ea2270f2
 -	Week 3 - Sequence models
 -	Week 4 - Sequence models and literature
 
-### 4.	Sequences, Time Series and Prediction  
+### 4.	Sequences, Time Series and Prediction - 12 hours
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice
 
 https://coursera.org/share/e5c86f4f3574ce75029c4ad94010e89d
 
--	Week 1 - Sequence and prediction - 12 hours
+-	Week 1 - Sequence and prediction 
 -	Week 2 - Deep neutral networks for time series
 -	Week 3 - Recurrent neural networks for time series
 -	Week 4 - Real world time series data
