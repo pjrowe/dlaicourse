@@ -57,3 +57,13 @@ https://coursera.org/share/279f9064c0bc3c2e2b82c2c58d137927
 -	Week 4 - Custom Models  
 -	Week 5 - Callbacks (Built-in and Custom) 
 
+### 2.	Custom and Distributed Training with TensorFlow
+https://www.coursera.org/learn/custom-distributed-training-with-tensorflow
+
+https://coursera.org/share/e1ede9d996dd164b29e42d88aa60cb1b
+
+-	Week 1 - Differentiation and Gradients
+-	Week 2 - Custom Training
+-	Week 3 - Graph Mode
+-	Week 4 - Distributed Training
+
