@@ -46,6 +46,18 @@ https://coursera.org/share/e5c86f4f3574ce75029c4ad94010e89d
 
 ## DeepLearning.AI TensorFlow: Data and Deployment Specialization
 
+### 3.	Data Pipelines with TensorFlow Data Services
+https://www.coursera.org/learn/data-pipelines-tensorflow
+
+https://coursera.org/share/f6dadfc583486786c1b15ef06f75b378
+
+-	Week 1 - Data Pipelines with TensorFlow Data Services
+-	Week 2 - Splits and Slices API for Datasets in TF
+-	Week 3 - Exporting Your Data into the Training Pipeline
+-	Week 4 - Performance  
+
+## TensorFlow: Advanced Techniques Specialization
+
 ### 1.	Custom Models, Layers, and Loss Functions with TensorFlow
 https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow
 
