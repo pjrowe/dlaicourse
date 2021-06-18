@@ -79,3 +79,7 @@ https://coursera.org/share/e1ede9d996dd164b29e42d88aa60cb1b
 -	Week 3 - Graph Mode
 -	Week 4 - Distributed Training
 
+### 3. Advanced Computer Vision with TensorFlow
+
+### 4. Generative Deep Learning with TensorFlow
+
