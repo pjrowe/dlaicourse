@@ -46,6 +46,10 @@ https://coursera.org/share/e5c86f4f3574ce75029c4ad94010e89d
 
 ## DeepLearning.AI TensorFlow: Data and Deployment Specialization
 
+### 1.	Browser-based Models with TensorFlow.js
+
+### 2.	Device-based Models with TensorFlow Lite
+
 ### 3.	Data Pipelines with TensorFlow Data Services
 https://www.coursera.org/learn/data-pipelines-tensorflow
 
@@ -53,8 +57,17 @@ https://coursera.org/share/f6dadfc583486786c1b15ef06f75b378
 
 -	Week 1 - Data Pipelines with TensorFlow Data Services
 -	Week 2 - Splits and Slices API for Datasets in TF
--	Week 3 - Exporting Your Data into the Training Pipeline
+-	Week 3 - Tensorboard: tools for model training
 -	Week 4 - Performance  
+
+### 4.	Advanced Deployment Scenarios with TensorFlow 
+
+https://coursera.org/share/f5f0cd9ff7ded8561dd00db98683e248
+
+-	Week 1 - TensorFlow Extended 
+-	Week 2 - Sharing pre-trained models with TensorFlow Hub
+-	Week 3 - Exporting Your Data into the Training Pipeline
+-	Week 4 - Federated Learning  
 
 ## TensorFlow: Advanced Techniques Specialization
 
